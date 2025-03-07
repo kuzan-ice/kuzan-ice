@@ -53,7 +53,7 @@ I'm a Full Stack Developer with over 8 years of experience in designing, develop
       </a>
     </td>
     <td>
-      <a href="https://skillicons.dev">f
+      <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,github,gitlab,azure,vscode" alt="Git, GitHub, GitLab, Azure, VS Code" />
         <img src="https://skillicons.dev/icons?i=figma,photoshop,nginx,postman,visualstudio" alt="Figma, Photoshop, Nginx, Postman, Visual Studio" />
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="37" height="37" />
@@ -83,16 +83,13 @@ I'm a Full Stack Developer with over 8 years of experience in designing, develop
 
 <br>
 <div >
-    <div style="display: inline-block; height:100px;">
-        <picture>
-            <!-- Dark theme -->
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=kuzan-ice&theme=onestar&no-frame=true&column=8&row=1" />
-            <!-- Light theme -->
-            <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=kuzan-ice&theme=onedark&no-frame=true&column=8&row=1" />
-            <!-- Fallback image -->
-            <img align="center" src="https://github-profile-trophy.vercel.app/?username=kuzan-ice&theme=onestar&no-frame=true&column=8&row=1" alt="@kuzan-ice's trophy stats" />
-        </picture>
+    <br>
+<div >
+    <div style="display: inline-block;width:100%">
+        <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kuzan-ice&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
     </div>
+</div>
  
 </div>
 
