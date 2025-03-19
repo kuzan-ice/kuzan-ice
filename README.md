@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&center=true&vCenter=true&width=1000&height=100&lines=Hello+Welcome+To+My+Github+Profile;I+Am+A+Fullstack+And+Mobile+Developer.;I+Have+8+Years+Of+Experiences.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&center=true&vCenter=true&width=1000&height=100&lines=Hello+Welcome+To+My+Github+Profile;I+Am+A+Frontend+Developer.;I+Have+10+Years+Of+Experiences.)](https://git.io/typing-svg)
 
-<h3 align="center">Senior Full Stack Engineer || Team Leader </h3>
+<h3 align="center">Senior Frontend Engineer </h3>
 
 <h3 align="left">🖋️ SUMMARY</h3>
 <p align="left">
