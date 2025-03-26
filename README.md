@@ -64,7 +64,7 @@ I'm a Full Stack Developer with over 10 years of experience in designing, develo
     </td>
   </tr>
 </table>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuzan-ice&layout=compact" />
 </div>
 <br>
 <div >
