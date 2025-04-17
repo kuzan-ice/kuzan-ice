@@ -4,7 +4,7 @@
 
 <h3 align="left">🖋️ SUMMARY</h3>
 <p align="left">
-I'm a Full Stack Developer with over 10 years of experience in designing, developing, and deploying web applications. I have strong expertise in front-end and back-end technologies, including JavaScript, Python, React, Node.js, and OpenAI, as well as database management with SQL and NoSQL. My proven track record in enhancing user experience and optimizing application performance aligns well with the needs of your growing startup. I am eager to contribute to a company with a solid long-term strategy while collaborating with a dynamic and professional team.
+I'm a Full Stack Developer with over 6 years of experience in designing, developing, and deploying web applications. I have strong expertise in front-end and back-end technologies, including JavaScript, Python, React, Node.js, and OpenAI, as well as database management with SQL and NoSQL. My proven track record in enhancing user experience and optimizing application performance aligns well with the needs of your growing startup. I am eager to contribute to a company with a solid long-term strategy while collaborating with a dynamic and professional team.
 </p>
 <table>
   <tr>
