@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&center=true&vCenter=true&width=1000&height=100&lines=Hello+Welcome+To+My+Github+Profile;I+Am+A+Senior+FullStack+Engineer.;I+Have+6+Years+Of+Experiences.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&center=true&vCenter=true&width=1000&height=100&lines=Hello+Welcome+To+My+Github+Profile;I+Am+A+Senior+FullStack+Engineer.;I+Have+8+Years+Of+Experiences.)](https://git.io/typing-svg)
 
 <h3 align="center">Senior FullStack Engineer </h3>
 
 <h3 align="left">🖋️ SUMMARY</h3>
 <p align="left">
-I'm a Full Stack Developer with over 6 years of experience in designing, developing, and deploying web applications. I have strong expertise in front-end and back-end technologies, including JavaScript, Python, React, Node.js, and OpenAI, as well as database management with SQL and NoSQL. My proven track record in enhancing user experience and optimizing application performance aligns well with the needs of your growing startup. I am eager to contribute to a company with a solid long-term strategy while collaborating with a dynamic and professional team.
+I'm a Full Stack Developer with over 8 years of experience in designing, developing, and deploying web applications. I have strong expertise in front-end and back-end technologies, including JavaScript, Python, React, Node.js, and OpenAI, as well as database management with SQL and NoSQL. My proven track record in enhancing user experience and optimizing application performance aligns well with the needs of your growing startup. I am eager to contribute to a company with a solid long-term strategy while collaborating with a dynamic and professional team.
 </p>
 <table>
   <tr>
