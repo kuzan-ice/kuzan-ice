@@ -104,10 +104,6 @@ I'm a seasoned web developer with over 8 years of hands-on experience in craftin
   ✅ <strong>Backend:</strong> Python, PHP, Laravel
   ✅ <strong>Design Tools:</strong> Figma, Adobe XD
 </p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuzan-ice&layout=compact" />
-</div>
 <br>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kuzan-ice&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
