@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&center=true&vCenter=true&width=1000&height=100&lines=🚀+Expert+Frontend+Developer;NextJS+%7C+NuxtJS+%7C+Angular+%7C+TypeScript;8%2B+Years+of+Professional+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&center=true&vCenter=true&width=1000&height=100&lines=🚀+Expert+Frontend+Developer;NextJS+%7C+VueJS+%7C+Angular+%7C+Shopify+%7C+Extension+%7C+Email;8%2B+Years+of+Professional+Experience)](https://git.io/typing-svg)
 
-<h3 align="center">Expert Frontend Developer | React/Vue/Angular Specialist</h3>
+<h3 align="center">Expert Frontend Developer | React/Vue/Angular/Shopify/Chrome Extension/Email Template Specialist</h3>
 
 <p align="center">
   <em>"He is very reliable and there's absolutely no frontend dev problem he cannot solve."</em>
